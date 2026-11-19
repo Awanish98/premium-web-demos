@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="1188" viewBox="0 0 840 1188" role="img" aria-labelledby="title desc">
+  <title id="title">THE IVORY COURT sample brochure placeholder</title>
+  <desc id="desc">A clearly labelled demo brochure. Replace this file with the client's approved brochure before launch.</desc>
+  <rect width="840" height="1188" fill="#f7f2e8"/>
+  <rect x="40" y="40" width="760" height="1108" fill="none" stroke="#5b1830" stroke-width="2"/>
+  <path d="M160 250 Q160 90 420 90 Q680 90 680 250 V278 H160 Z" fill="none" stroke="#b08a4a" stroke-width="2"/>
+  <rect x="180" y="185" width="480" height="440" fill="#5b1830"/>
+  <rect x="198" y="203" width="444" height="404" fill="none" stroke="#d9bd84" stroke-width="1"/>
+  <text x="420" y="340" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#f7f2e8">THE IVORY</text>
+  <text x="420" y="408" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#f7f2e8">COURT</text>
+  <text x="420" y="482" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="6" fill="#d9bd84">SAMPLE BROCHURE</text>
+  <text x="420" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#f7f2e8">WEDDINGS · BANQUETS · CONVENTIONS</text>
+  <text x="420" y="720" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#5b1830">A ceremonial venue concept</text>
+  <text x="420" y="772" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#6d5f5c">Illustrative only — not a real venue or quotation.</text>
+  <line x1="240" y1="822" x2="600" y2="822" stroke="#b08a4a" stroke-width="1"/>
+  <text x="420" y="880" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#5b1830">Replace this placeholder with the client's</text>
+  <text x="420" y="910" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#5b1830">approved brochure before launch.</text>
+  <text x="420" y="1100" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" letter-spacing="4" fill="#7a5a27">DEMO CONCEPT · SAMPLE INFORMATION</text>
+</svg>
